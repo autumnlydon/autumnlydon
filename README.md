@@ -4,7 +4,7 @@
 - 👀 I’m currently working on **Training AI Models & Building Beautiful Sites**.
 - 🌱 I’m currently learning **JavaScript, React, SQL**.
 - 📫 Email: autumnlydon@gmail.com
-- 📌 LinkedIn: https://www.linkedin.com/in/autumnlydon/
+- 📌 [LinkedIn] (https://www.linkedin.com/in/autumnlydon/)
 
 <!---
 autumnlydon/autumnlydon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
