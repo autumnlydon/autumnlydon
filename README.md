@@ -2,7 +2,7 @@
 <h3 align="left">Software Engineer in NYC</h3>
 
 - 👀 I’m currently working on **Training AI Models & Building Beautiful Sites**.
-- 🌱 I’m currently learning **JavaScript, React, SQL**.
+- 🌱 I’m currently learning **JavaScript, React, React Native, Swift SQL**.
 - 📫 Email: autumnlydon@gmail.com
 - 📌 [LinkedIn](https://www.linkedin.com/in/autumnlydon/)
 
