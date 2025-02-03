@@ -1,8 +1,8 @@
 <h1 align="left">Hi, I'm Autumn Lydon 👩🏻‍💻</h1>
 <h3 align="left">Software Engineer in NYC</h3>
 
-- 👀 I’m currently working on **Training AI Models & Building Beautiful Sites**.
-- 🌱 I’m currently learning **JavaScript, React, React Native, Swift SQL**.
+- 👀 I’m currently **Building Apps + Spending too much time on Figma**.
+- 🌱 I’m currently learning **React, React Native w/ Expo, Swift**.
 - 📫 Email: autumnlydon@gmail.com
 - 📌 [LinkedIn](https://www.linkedin.com/in/autumnlydon/)
 
